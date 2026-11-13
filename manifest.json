@@ -1,0 +1,14 @@
+{
+  "name": "NeuroNurse Demo",
+  "short_name": "NeuroNurse",
+  "description": "نسخه نمایشی اپلیکیشن آموزشی پرستاری نورونرس — بانک تست، درسنامه و آزمون‌های کنکور کارشناسی ارشد",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f766e",
+  "theme_color": "#0f766e",
+  "icons": [
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
